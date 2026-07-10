@@ -1,0 +1,31 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * 0"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/metrics.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: JackDeBuff
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories
+          config_theme: dark
+          config_timezone: America/New_York
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_colors: "#00E676, #00C853, #69F0AE, #B9F6CA, #1DE9B6, #64FFDA, #00BFA5, #A7FFEB"
+          plugin_lines: yes
