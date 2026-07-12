@@ -1,12 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C853,100:00E676&height=220&text=JackDeBuff&fontSize=66&fontColor=F0F6FC&animation=twinkling&fontAlignY=32&desc=Durham%2C%20NC%20%F0%9F%87%BA%F0%9F%87%B8%20%C2%B7%20est.%20Bangkok%20%F0%9F%87%B9%F0%9F%87%AD&descSize=18&descAlignY=54" alt="header" />
-
 <div align="center">
 
-# Hi, my name is Jack 👋 and I ❤️ AI and Memes
+<img src="./assets/header.svg" width="860" alt="jack@debuff terminal — Data Scientist · ML @ Duke"/>
 
-<a href="https://github.com/JackDeBuff">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00E676&center=true&vCenter=true&width=520&height=45&lines=Data+Scientist;Machine+Learning+%40+Duke+University;AI+%C2%B7+Finance+%C2%B7+Cat+Enthusiast;Meme+%26+Reels+enjoyer" alt="typing intro" />
-</a>
+# Hi, my name is Jack 👋 and I ❤️ AI and Memes
 
 `🧠 AI` `💸 Finance` `🐈 Cat Enthusiast` `😹 Meme & Reels enjoyer`
 
@@ -27,20 +23,38 @@
 <a href="mailto:supawich@gmail.com"><img src="https://img.shields.io/badge/Email-say__hi-00E676?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=JackDeBuff&style=for-the-badge&color=00E676&label=VISITORS" alt="profile views"/>
 
-</div>
+<img src="./assets/divider.svg" width="860" alt=""/>
 
-<br/>
+</div>
 
 ## 🏆 Achievements
 
-| | |
-|---|---|
-| 🥇 **AIHack Thailand 2021** — Winner | Highest AUC in the *AI × Financial Data* track — built an ensemble classifier that predicts Long-Overdue Debtors from raw debtor data. |
-| 🌊 **ARV Hackathon 2021** — Winner | Best mAP@0.5 among 20 finalist teams — generated a synthetic underwater dataset and trained YOLOv5 to detect subsea objects. → [`ARVhackathon`](https://github.com/JackDeBuff/ARVhackathon) |
-| ⚗️ **TMLCC 2021** — 1st Runner-up | Thailand ML for Chemistry Competition — predicted gas adsorption of metal-organic frameworks with multimodal Graph Neural Networks. → [`TMLCC`](https://github.com/JackDeBuff/TMLCC) |
-| 🧠 **Intel ISEF 2018** — Finalist | Represented Thailand with an EEG-based biometric authentication system — the same project later won **Best of IT, Prime Minister's Science Awards 2019** and **1st Prize, ASEAN Student Science Project 2018**. |
-| 🎖️ **Outstanding National Youth Award 2019** | National award in Innovation & Invention from Thailand's Ministry of Social Development and Human Security. |
-| ⚡ **TechJam 2019** — Deep Jam finalist | KBTG's national deep-learning battle. → [`TechJam2019`](https://github.com/JackDeBuff/TechJam2019) |
+<table>
+  <tr>
+    <td nowrap>🥇 <b>AIHack Thailand 2021</b><br/>Winner</td>
+    <td>Highest AUC in the <i>AI × Financial Data</i> track — built an ensemble classifier that predicts Long-Overdue Debtors from raw debtor data.</td>
+  </tr>
+  <tr>
+    <td nowrap>🌊 <b>ARV Hackathon 2021</b><br/>Winner</td>
+    <td>Best mAP@0.5 among 20 finalist teams — generated a synthetic underwater dataset and trained YOLOv5 to detect subsea objects. → <a href="https://github.com/JackDeBuff/ARVhackathon"><code>ARVhackathon</code></a></td>
+  </tr>
+  <tr>
+    <td nowrap>⚗️ <b>TMLCC 2021</b><br/>1st Runner-up</td>
+    <td>Thailand ML for Chemistry Competition — predicted gas adsorption of metal-organic frameworks with multimodal Graph Neural Networks. → <a href="https://github.com/JackDeBuff/TMLCC"><code>TMLCC</code></a></td>
+  </tr>
+  <tr>
+    <td nowrap>🧠 <b>Intel ISEF 2018</b><br/>Finalist</td>
+    <td>Represented Thailand with an EEG-based biometric authentication system — the same project later won <b>Best of IT, Prime Minister's Science Awards 2019</b> and <b>1st Prize, ASEAN Student Science Project 2018</b>.</td>
+  </tr>
+  <tr>
+    <td nowrap>🎖️ <b>National Youth Award 2019</b><br/>Winner</td>
+    <td>Outstanding national award in Innovation &amp; Invention from Thailand's Ministry of Social Development and Human Security.</td>
+  </tr>
+  <tr>
+    <td nowrap>⚡ <b>TechJam 2019</b><br/>Deep Jam finalist</td>
+    <td>KBTG's national deep-learning battle. → <a href="https://github.com/JackDeBuff/TechJam2019"><code>TechJam2019</code></a></td>
+  </tr>
+</table>
 
 ## 📄 Publications
 
@@ -70,34 +84,31 @@
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="GitHub metrics (auto-generated weekly by GitHub Actions)" width="100%"/>
-
-<a href="https://streak-stats.demolab.com?user=JackDeBuff">
-  <img src="https://streak-stats.demolab.com?user=JackDeBuff&theme=dark&hide_border=true&background=0D1117&ring=00E676&fire=00E676&currStreakLabel=00E676&sideNums=F0F6FC&currStreakNum=00E676" alt="streak stats"/>
-</a>
+<img src="./github-metrics.svg" alt="GitHub metrics" width="440"/>
+<a href="https://streak-stats.demolab.com?user=JackDeBuff"><img src="https://streak-stats.demolab.com?user=JackDeBuff&theme=dark&hide_border=true&background=0D1117&ring=00E676&fire=00E676&currStreakLabel=00E676&sideNums=F0F6FC&currStreakNum=00E676" alt="streak stats" width="410"/></a>
 
 <br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JackDeBuff/JackDeBuff/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JackDeBuff/JackDeBuff/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/JackDeBuff/JackDeBuff/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions"/>
+  <img src="https://raw.githubusercontent.com/JackDeBuff/JackDeBuff/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" width="860"/>
 </picture>
 
-<sub>🐍 the snake, 📊 the metrics — all rebuilt automatically by GitHub Actions in this repo. No third-party servers were harmed.</sub>
+<sub>🐍 the snake, 📊 the metrics — rebuilt automatically by GitHub Actions in this repo. No third-party servers were harmed.</sub>
 
 </div>
 
 <br/>
 
----
-
 <div align="center">
+
+<img src="./assets/divider.svg" width="860" alt=""/>
+
+<br/><br/>
 
 <img src="https://media1.tenor.com/m/ELG0Ssyp6XgAAAAC/du-bist-gut-genug-german.gif" width="380" alt="Du bist gut genug"/>
 
 ### Du bist gut genug~ 🎶🕺
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,50:00C853,100:0D1117&height=120&section=footer" alt="footer" />

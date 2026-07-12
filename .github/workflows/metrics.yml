@@ -22,7 +22,7 @@ jobs:
           user: JackDeBuff
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories
+          base: header
           config_theme: dark
           config_timezone: America/New_York
           plugin_languages: yes
