@@ -50,10 +50,6 @@
     <td nowrap>🎖️ <b>National Youth Award 2019</b><br/>Winner</td>
     <td>Outstanding national award in Innovation &amp; Invention from Thailand's Ministry of Social Development and Human Security.</td>
   </tr>
-  <tr>
-    <td nowrap>⚡ <b>TechJam 2019</b><br/>Deep Jam finalist</td>
-    <td>KBTG's national deep-learning battle. → <a href="https://github.com/JackDeBuff/TechJam2019"><code>TechJam2019</code></a></td>
-  </tr>
 </table>
 
 ## 📄 Publications
@@ -94,8 +90,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JackDeBuff/JackDeBuff/output/github-contribution-grid-snake.svg"/>
   <img src="https://raw.githubusercontent.com/JackDeBuff/JackDeBuff/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" width="860"/>
 </picture>
-
-<sub>🐍 the snake, 📊 the metrics — rebuilt automatically by GitHub Actions in this repo. No third-party servers were harmed.</sub>
 
 </div>
 
